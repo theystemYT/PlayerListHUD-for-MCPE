@@ -6,6 +6,6 @@ A simple and lightweight mod for Minecraft Pocket Edition and Bedrock Edition th
 - Works in both survival and creative mode.  
 - Supports multiplayer servers and realms.  
 
-**Note:** This mod is only compatible with **Minecraft Pocket Edition and Minecraft Bedrock Edition version 1.16.0 and higher**.  
+**Note:** This mod is only compatible with Minecraft Pocket Edition and Minecraft Bedrock Edition version 1.16.0 and higher.  
 
-**Pack created by @theystem, a YouTube channel. Also, this GitHub user.**  
+Pack created by @theystem, a YouTube channel. Also, this GitHub user. 
