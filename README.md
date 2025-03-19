@@ -4,7 +4,7 @@ A simple and lightweight mod for Minecraft Pocket Edition and Bedrock Edition th
 ## Features:  
 - Displays a list of online players in your world.  
 - Works in both survival and creative mode.  
-- Supports multiplayer servers and realms.  
+- Supports realms.
 
 **Note:** This mod is only compatible with Minecraft Pocket Edition and Minecraft Bedrock Edition version 1.16.0 and higher.  
 
