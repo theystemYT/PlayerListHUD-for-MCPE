@@ -1,11 +1,25 @@
 # Player List HUD for MCPE & Minecraft Bedrock Edition
-A simple and lightweight mod for Minecraft Pocket Edition and Bedrock Edition that adds a Player List HUD. Easily see all players in your world with their names and relevant details displayed on-screen.  
 
-## Features:  
-- Displays a list of online players in your world.  
-- Works in both survival and creative mode.  
-- Supports realms.
+A simple mod for **Minecraft Pocket Edition (MCPE)** and **Minecraft Bedrock Edition** that adds a **Player List HUD**. With this mod, you can easily view all players in your world, along with their names and relevant details, directly on-screen.
 
-**Note:** This mod is only compatible with Minecraft Pocket Edition and Minecraft Bedrock Edition version 1.16.0 and higher.  
+## Features:
+- Displays a dynamic list of **online players** in your world.
+- Works in **both survival** and **creative modes**.
+- Fully supports **realms**.
+- Easy to use.
 
-Pack created by @theystem, a YouTube channel. Also, this GitHub user. 
+## Compatibility:
+- This mod is compatible with **Minecraft Pocket Edition** and **Minecraft Bedrock Edition** version **1.16.0** and higher.
+
+**Note:**  
+- This mod will only work if it is the **only resource pack** activated in your world.  
+- For full functionality, ensure no other conflicting mods or packs are active.
+
+## Installation:
+1. Download the resource pack from the releases section.
+2. Place it in your `resource_packs` folder.
+3. Activate the pack in your world settings.
+
+## Credits:
+- **Created by:** [@theystem](https://www.youtube.com/@theystem) (YouTube Channel)  
+- **GitHub:** [@theystem](https://github.com/theystemYT)
