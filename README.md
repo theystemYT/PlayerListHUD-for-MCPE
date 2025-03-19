@@ -1,4 +1,4 @@
-# Player List HUD for Minecraft Bedrock Edition  
+# Player List HUD for MCPE & Minecraft Bedrock Edition
 A simple and lightweight mod for Minecraft Pocket Edition and Bedrock Edition that adds a Player List HUD. Easily see all players in your world with their names and relevant details displayed on-screen.  
 
 ## Features:  
