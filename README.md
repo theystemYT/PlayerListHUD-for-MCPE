@@ -15,11 +15,5 @@ A simple mod for **Minecraft Pocket Edition (MCPE)** and **Minecraft Bedrock Edi
 - This mod will only work if it is the **only resource pack** activated in your world.  
 - For full functionality, ensure no other conflicting mods or packs are active.
 
-## Installation:
-1. Download the resource pack from the releases section.
-2. Place it in your `resource_packs` folder.
-3. Activate the pack in your world settings.
-
 ## Credits:
-- **Created by:** [@theystem](https://www.youtube.com/@theystem) (YouTube Channel)  
-- **GitHub:** [@theystem](https://github.com/theystemYT)
+- Pack created by: [@theystem](https://www.youtube.com/channel/UCyK0Q1CzXxI9Z9XmJlvBOjw) 
