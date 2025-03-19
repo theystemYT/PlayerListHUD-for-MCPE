@@ -16,4 +16,4 @@ A simple mod for **Minecraft Pocket Edition (MCPE)** and **Minecraft Bedrock Edi
 - For full functionality, ensure no other conflicting mods or packs are active.
 
 ## Credits:
-- Pack created by: [@theystem](https://www.youtube.com/channel/UCyK0Q1CzXxI9Z9XmJlvBOjw) 
+- Pack created by: [@theystem](www.youtube.com/@theystem) 
